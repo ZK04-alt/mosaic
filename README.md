@@ -2,10 +2,10 @@
 
 [Mosaic for Android](https://zk04-alt.github.io/mosaic/app/)
 
-[Download the APK](https://github.com/ZK04-alt/mosaic/releases/download/android-1.0.4-build11/Mosaic-1.0.4-build11.apk)
+[Download the APK](https://github.com/ZK04-alt/mosaic/releases/download/android-1.0.5-build12/Mosaic-1.0.5-build12.apk)
 
 Mosaic brings study plans, recorded study time, practice papers and saved
-questions together. The current download is version 1.0.4, build 11.
+questions together. The current download is version 1.0.5, build 12.
 
 ## Project and development
 
