@@ -2,16 +2,10 @@
 
 [Mosaic for Android](https://zk04-alt.github.io/mosaic/app/)
 
-[Download the APK](https://github.com/ZK04-alt/mosaic/releases/download/android-1.0.3-build10/Mosaic-1.0.3-build10.apk)
+[Download the APK](https://github.com/ZK04-alt/mosaic/releases/download/android-1.0.4-build11/Mosaic-1.0.4-build11.apk)
 
 Mosaic brings study plans, recorded study time, practice papers and saved
-questions together. Version 1.0.3, build 10 connects to an independently hosted
-service. No Tailscale setup or running PC is required. Google sign-in identifies
-the Mosaic account. Access may be limited during preview testing. First sign-in,
-syncing and new downloads need internet access.
-
-Successful Android Google return and the full signed-in workflow on build 10 remain
-unverified. The page explains current testing and the preview's storage limits.
+questions together. The current download is version 1.0.4, build 11.
 
 ## Project and development
 
